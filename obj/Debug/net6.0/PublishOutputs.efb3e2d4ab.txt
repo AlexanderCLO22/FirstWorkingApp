@@ -1,0 +1,7 @@
+C:\Users\User\VSCodeStuff\FirstWorkingApp\bin\Debug\net6.0\publish\FirstWorkingApp.exe
+C:\Users\User\VSCodeStuff\FirstWorkingApp\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\User\VSCodeStuff\FirstWorkingApp\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\User\VSCodeStuff\FirstWorkingApp\bin\Debug\net6.0\publish\FirstWorkingApp.dll
+C:\Users\User\VSCodeStuff\FirstWorkingApp\bin\Debug\net6.0\publish\FirstWorkingApp.deps.json
+C:\Users\User\VSCodeStuff\FirstWorkingApp\bin\Debug\net6.0\publish\FirstWorkingApp.runtimeconfig.json
+C:\Users\User\VSCodeStuff\FirstWorkingApp\bin\Debug\net6.0\publish\FirstWorkingApp.pdb
